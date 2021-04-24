@@ -2,7 +2,7 @@
 
 👉 I'm a Frontend Developer with focus on performance, accessibility and great visual experiences.
 
-👉 I'm currently studying JS Algorithms & Data Strucures.
+👉 I'm currently studying JS Algorithms & Data Strucures, and Vue.js.
 
 ### My main stack:
 - React
