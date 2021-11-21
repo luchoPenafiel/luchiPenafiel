@@ -6,6 +6,7 @@
 
 ### My main stack:
 - React
+- React Native
 - Next.js
 - TypeScript
 - Firebase
