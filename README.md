@@ -2,7 +2,7 @@
 
 👉 I'm a Frontend Developer with focus on performance, accessibility and great visual experiences.
 
-👉 I'm currently studying JS Algorithms & Data Strucures, and Vue.js.
+👉 Currently, I'm looking for improve my skills as React Native developer.
 
 ### My main stack:
 - React
