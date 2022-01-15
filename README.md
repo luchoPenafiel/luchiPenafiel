@@ -2,7 +2,7 @@
 
 👉 I'm a Frontend Developer with focus on performance, accessibility and great visual experiences.
 
-👉 Currently, I'm looking for improve my skills as React Native developer.
+👉 Currently, I'm looking for improve my skills as React Native developer and learn Swift.
 
 ### My main stack:
 - React
